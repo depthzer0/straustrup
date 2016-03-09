@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter 1 hello world", "chapter 1 hello world\chapter 1 hello world.vcxproj", "{EBD44126-20A0-4D61-BDC3-6DB2B2C5C0FE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chapter 3 1 input name", "chapter 3 1 input name\chapter 3 1 input name.vcxproj", "{02E44DDF-9295-4101-B158-D4BFA5B67E52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,6 +17,10 @@ Global
 		{EBD44126-20A0-4D61-BDC3-6DB2B2C5C0FE}.Debug|Win32.Build.0 = Debug|Win32
 		{EBD44126-20A0-4D61-BDC3-6DB2B2C5C0FE}.Release|Win32.ActiveCfg = Release|Win32
 		{EBD44126-20A0-4D61-BDC3-6DB2B2C5C0FE}.Release|Win32.Build.0 = Release|Win32
+		{02E44DDF-9295-4101-B158-D4BFA5B67E52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{02E44DDF-9295-4101-B158-D4BFA5B67E52}.Debug|Win32.Build.0 = Debug|Win32
+		{02E44DDF-9295-4101-B158-D4BFA5B67E52}.Release|Win32.ActiveCfg = Release|Win32
+		{02E44DDF-9295-4101-B158-D4BFA5B67E52}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

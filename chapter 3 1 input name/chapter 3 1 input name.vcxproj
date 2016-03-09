@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{EBD44126-20A0-4D61-BDC3-6DB2B2C5C0FE}</ProjectGuid>
+    <ProjectGuid>{02E44DDF-9295-4101-B158-D4BFA5B67E52}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>chapter1helloworld</RootNamespace>
+    <RootNamespace>chapter31inputname</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -78,7 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="hello_world.cpp" />
+    <ClCompile Include="input_name.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="std_lib_facilities.h" />
