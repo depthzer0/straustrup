@@ -9,6 +9,6 @@ int main()
 	cin >> first_name >> age;
 	cout << "Hello, " << first_name << " ( age " << age << ")\n";
 
-	keep_window_open("s");
+	keep_window_open();
 	return 0;
 }
